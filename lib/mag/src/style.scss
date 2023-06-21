@@ -1,0 +1,46 @@
+$button-size: 60px;
+$magnetic-area-size: $button-size * 2.5;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #333;
+}
+
+.demo-container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.magnetic-area {
+	position: relative;
+	width: $magnetic-area-size;
+	height: $magnetic-area-size;
+}
+
+.button {
+	width: $button-size;
+	height: $button-size;
+	border: 3px solid white;
+	border-radius: 100%;
+	color: white;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+	&--magnetic {
+		position: absolute;
+		left: ($magnetic-area-size - $button-size) / 2;
+		top: ($magnetic-area-size - $button-size) / 2;
+	}
+	
+	&__icon {
+		font-size: 28px;
+	}
+}

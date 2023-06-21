@@ -1,0 +1,103 @@
+/*body {
+  background: #333;
+}
+.demo-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.magnetic-area {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}*/
+
+.button {
+  /* width: 60px; */
+  /* height: 60px; */
+  /* border: 3px solid white; */
+  /* border-radius: 100%; */
+  /* color: white; */
+  /* cursor: pointer; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: space-around; */
+}
+/*.button--magnetic {
+  position: fixed;
+  left: 45px;
+  top: 105px;
+}
+.button__icon {
+  /* font-size: 28px; */
+}*/
+
+
+
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #333;
+}
+
+.demo-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.magnetic-area {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.button {
+  width: 60px;
+  height: 60px;
+  border: 3px solid white;
+  border-radius: 100%;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.button--magnetic {
+  position: absolute;
+  left: 45px;
+  top: 45px;
+}
+.button__icon {
+  font-size: 28px;
+}
+
+
+
+
+
+/*.icon-bar a{
+  padding: 0 !important;
+}*/
+#mag-btn-lower{
+  float:left;
+  margin-top:calc(100vh - 200px);
+}
+#mag-btn-upper{
+  float:left;
+  margin-top:calc(100vh - 350px);
+}

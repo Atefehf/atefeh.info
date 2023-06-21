@@ -1,0 +1,94 @@
+* {
+  box-sizing:border-box;
+}
+body {
+  margin:0;
+}
+
+
+/*.container {
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+}*/
+
+
+.example {
+  /* border:1px solid black; */
+  /* margin:1em 0; */
+}
+
+
+
+.example-image {
+  width:100%;
+  height:100vh;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
+
+.example-background {
+  background-image:url('../img/scene-assets/Background.png');
+}
+.example-mountain1 {
+  background-image:url('../img/scene-assets/Mountain1.png');
+}
+.example-mountain2 {
+  background-image:url('../img/scene-assets/Mountain2.png');
+}
+.example-mountain3 {
+  background-image:url('../img/scene-assets/Mountain3.png');
+}
+.example-cloud1 {
+  background-image:url('../img/scene-assets/Cloud1.png');
+}
+.example-cloud2 {
+  background-image:url('../img/scene-assets/Cloud2.png');
+}
+.example-cloud3 {
+  background-image:url('../img/scene-assets/Cloud3.png');
+}
+.example-cloud4 {
+  background-image:url('../img/scene-assets/Cloud4.png');
+}
+.example-cloud5 {
+  background-image:url('../img/scene-assets/Cloud5.png');
+}
+.example-cloud6 {
+  background-image:url('../img/scene-assets/Cloud6.png');
+}
+@media (max-width:800px) {
+
+  .example-background {
+    background-image:url('../img/scene-assets/Background_m.png');
+  }
+  .example-mountain1 {
+    background-image:url('../img/scene-assets/Mountain1_m.png');
+  }
+  .example-mountain2 {
+    background-image:url('../img/scene-assets/Mountain2_m.png');
+  }
+  .example-mountain3 {
+    background-image:url('../img/scene-assets/Mountain3_m.png');
+  }
+  .example-cloud1 {
+    background-image:url('../img/scene-assets/Cloud1_m.png');
+  }
+  .example-cloud2 {
+    background-image:url('../img/scene-assets/Cloud2_m.png');
+  }
+  .example-cloud3 {
+    background-image:url('../img/scene-assets/Cloud3_m.png');
+  }
+  .example-cloud4 {
+    background-image:url('../img/scene-assets/Cloud4_m.png');
+  }
+  .example-cloud5 {
+    background-image:url('../img/scene-assets/Cloud5_m.png');
+  }
+  .example-cloud6 {
+    background-image:url('../img/scene-assets/Cloud6_m.png');
+  }
+}

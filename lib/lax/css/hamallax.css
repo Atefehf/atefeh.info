@@ -1,0 +1,27 @@
+
+
+.hamallax-section {
+    position:relative;
+/*    overflow:hidden;
+*/  }
+  .hamallax-items {
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+  }
+  .hamallax-overscreen.hamallax-clipped .hamallax-items {
+    height:100vh;
+    position:fixed;
+  }
+  .hamallax-item {
+    /* position:absolute; */
+    top:0;
+    left:0;
+  }
+  .hamallax-onscreen.hamallax-clipped.above .hamallax-item {
+    top:initial;
+    bottom:0;
+  }
+  
