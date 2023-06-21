@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="85px" viewBox="0 0 117 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.4925 24.5526 0.4925 24.5526 1.4925 0 1.4925"></polygon>
+    </defs>
+    <g id="Hi-fi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clock" transform="translate(0.000000, 1.000000)">
+            <path d="M42.2147,66.7621 C36.5587,59.7521 33.1717,50.8341 33.1717,41.1261 C33.1717,18.5631 51.4627,0.2731 74.0257,0.2731 C96.5877,0.2731 114.8787,18.5631 114.8787,41.1261 C114.8787,63.6891 96.5877,81.9801 74.0257,81.9801 L18.1117,81.9801" id="Stroke-1" stroke="#08070A" stroke-width="2.545"></path>
+            <path d="M107.664,40.8568 C107.664,59.5288 92.527,74.6668 73.854,74.6668 C55.183,74.6668 40.045,59.5288 40.045,40.8568 C40.045,22.1838 55.183,7.0458 73.854,7.0458 C92.527,7.0458 107.664,22.1838 107.664,40.8568 Z" id="Stroke-3" stroke="#DBD5C9" stroke-width="2.545"></path>
+            <path d="M80.2626,40.8568 C80.2626,44.3958 77.3936,47.2648 73.8546,47.2648 C70.3156,47.2648 67.4466,44.3958 67.4466,40.8568 C67.4466,37.3178 70.3156,34.4488 73.8546,34.4488 C77.3936,34.4488 80.2626,37.3178 80.2626,40.8568 Z" id="Stroke-5" stroke="#DBD5C9" stroke-width="2.545"></path>
+            <line x1="32.2001" y1="67.1244" x2="12.4771" y2="67.1244" id="Stroke-7" stroke="#08070A" stroke-width="2.545"></line>
+            <line x1="23.7899" y1="41.3646" x2="4.0679" y2="41.3646" id="Stroke-9" stroke="#08070A" stroke-width="2.545"></line>
+            <g id="Group-13" transform="translate(0.000000, 53.252000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-12"></g>
+                <line x1="24.5526" y1="0.9925" x2="-0.0004" y2="0.9925" id="Stroke-11" stroke="#08070A" stroke-width="2.545" mask="url(#mask-2)"></line>
+            </g>
+            <line x1="91.7743" y1="27.3343" x2="79.4033" y2="37.6593" id="Stroke-14" stroke="#DBD5C9" stroke-width="2.545"></line>
+            <line x1="60.9325" y1="24.4183" x2="70.3875" y2="35.7153" id="Stroke-16" stroke="#DBD5C9" stroke-width="2.545"></line>
+            <line x1="73.8544" y1="12.5208" x2="73.8544" y2="24.4178" id="Stroke-18" stroke="#DBD5C9" stroke-width="2.545"></line>
+            <line x1="73.8544" y1="57.2953" x2="73.8544" y2="69.1913" id="Stroke-20" stroke="#DBD5C9" stroke-width="2.545"></line>
+            <line x1="102.1903" y1="40.8568" x2="90.2933" y2="40.8568" id="Stroke-22" stroke="#DBD5C9" stroke-width="2.545"></line>
+            <line x1="57.4159" y1="40.8568" x2="45.5199" y2="40.8568" id="Stroke-24" stroke="#DBD5C9" stroke-width="2.545"></line>
+        </g>
+    </g>
+</svg>
