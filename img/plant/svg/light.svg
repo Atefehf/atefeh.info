@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="106px" viewBox="0 0 100 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Hi-fi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="project" transform="translate(-527.000000, -3704.000000)" stroke-width="2">
+            <g id="light" transform="translate(527.000000, 3704.000000)">
+                <path d="M75,50.7716708 C75,59.4056409 70.546871,67.015364 63.7813165,71.449921 L63.7813165,80.0031055 C63.7813165,83.3153186 61.0730573,86 57.7317553,86 L42.2476727,86 C38.9180128,86 36.2199405,83.3239742 36.2199405,80.0247445 L36.2199405,71.449921 C29.6115553,67.1192313 25.210816,59.7619635 25.0070781,51.3804486 C24.6825527,38.0277289 35.5592475,26.518654 49.0234141,26.0180713 C63.2763375,25.4857513 75,36.7827638 75,50.7716708 Z M39,94.5 L57,94.5 M39,104.5 L50,104.5" id="Combined-Shape" stroke="#DBD5C9"></path>
+                <path d="M100,47.5 L83,47.5 M17,47.5 L0,47.5 M75,27 L87,15 M51.80855,17.6274692 L51.80855,0.258546154 M29,27 L17,15" id="Combined-Shape" stroke="#EB4B46"></path>
+            </g>
+        </g>
+    </g>
+</svg>
